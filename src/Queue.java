@@ -28,5 +28,6 @@ public class Queue
         {
             return "Data: " + data + " is linked to " + link;
         }
-    }
+    } // end Node class
+
 } // end main Queue class
